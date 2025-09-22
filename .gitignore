@@ -11,6 +11,7 @@ Untitled*.ipynb
 *.ipynb~
 
 # Data & results
+tools/
 data/
 results/
 outputs/
@@ -44,4 +45,5 @@ build/
 
 # Allow sample data
 !data/sample/
+!data/sample/*
 
