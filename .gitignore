@@ -12,7 +12,7 @@ Untitled*.ipynb
 
 # Data & results
 tools/
-data/
+data/*
 results/
 outputs/
 artifacts/
@@ -41,7 +41,6 @@ build/
 
 # Tests
 .pytest_cache/
-
 
 # Allow sample data
 !data/sample/
