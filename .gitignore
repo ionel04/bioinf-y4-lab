@@ -45,5 +45,5 @@ build/
 
 # Allow sample data
 !data/sample/
-!data/sample/*
+!data/sample/**
 
