@@ -51,4 +51,4 @@ build/
 # Allow sample data
 !data/sample/
 !data/sample/**
-
+data/sample/data_generation_notes.md
