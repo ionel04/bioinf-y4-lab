@@ -60,5 +60,3 @@ După ce în săptămâna 2 am studiat alinierea secvențelor (globală și loca
 - [ENA Browser](https://www.ebi.ac.uk/ena/browser/home) — interfață web pentru genomuri și rulari.  
 - [ENA Portal API (filereport)](https://www.ebi.ac.uk/ena/portal/api/) — acces programatic la linkurile FASTQ.
 - [Biopython Entrez](https://biopython.org/docs/1.75/api/Bio.Entrez.html) — pentru acces la NCBI 
-
-

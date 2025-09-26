@@ -102,4 +102,3 @@ Toate schimbările notabile sunt documentate aici.
 -`labs/lab03_formats&NGS`
 -`ci.yml`
 -`.gitignore`
-
