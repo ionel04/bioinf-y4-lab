@@ -47,6 +47,7 @@ def main() -> None:
         f"{tracking_dir}"
     )
 
+    print("TEST"); 
 
 if __name__ == "__main__":
     main()
