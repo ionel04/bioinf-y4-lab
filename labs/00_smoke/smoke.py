@@ -23,7 +23,7 @@ def main() -> None:
     _ = len(g)
     _ = mlflow.__version__
     _ = matplotlib.__version__
-    print("ok")
+    print("ok line 26")
 
 
 if __name__ == "__main__":
